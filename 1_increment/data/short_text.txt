@@ -1,0 +1,524 @@
+
+
+# https://wiki.student.uni-goettingen.de/start
+
+start [Support studIT - IT-Service für Studierende]
+zum Inhalt springen
+Support studIT - IT-Service für Studierende
+Benutzer-Werkzeuge
+Anmelden
+Webseiten-Werkzeuge
+Suche
+Werkzeuge
+Zeige Quelltext
+Ältere Versionen
+PDF exportieren
+ODT exportieren
+Links hierher
+Letzte Änderungen
+Medien-Manager
+Übersicht
+Anmelden
+>
+Letzte Änderungen
+Medien-Manager
+Übersicht
+Seitenleiste
+ecampus
+support
+univz
+wiki
+blog
+datenschutz
+pflichtangaben_nach_dsgvo
+start
+Wir sind studIT – Euer Servicepartner für IT-Fragen an der Uni
+Wir verstehen, dass Technologie das Herzstück der Zukunft ist. Deshalb bieten wir Euch IT-Services von Studierenden für Studierende an, die Euch helfen, Eure Zeit an der Uni IT-technisch erfolgreich zu gestalten.
+Mit unserem Angebot geben wir Euch in Form von Beratung und Software das Rüstzeug, um Eure kreativen Ideen für Euer Studium in die Realität umzusetzen.
+Wir stehen euch an drei Standorten über den ganzen Campus verteilt zur Seite, damit ihr die volle Vielfalt der IT nutzen könnt, um eure Ziele zu erreichen. Ob am Nordcampus, im Klinikum oder am Zentralcampus in der SUB – wir sind nicht weit entfernt.
+Ihr erreicht uns nicht nur persönlich, sondern auch per Hotline (0551 39 23366) oder auch per Mail (campussupport@uni-goettingen.de). Eingeschränkt sind wir auch am Wochenende für Euch da.
+Seit 1998 entwickelte sich unser Service von der „Internet-Hotline“ 2005 zur „studIT – IT-Service für Studierende“. Mittlerweile umfasst unser Team 25 Mitarbeitende, die Euch mit Rat und Tat zur Seite stehen.
+Deshalb kommt vorbei. Wir freuen uns darauf, Euch bei Euren Fragen zu unterstützen.
+Willkommen auf unseren Supportseiten
+Unsere Neuigkeiten
+CKS ist seit dem 02.06.2025 geschlossen. Der Support und die Verlängerung von Studierendenausweisen befinden sich am Zentralcampus jetzt ausschließlich im LRC SUB
+CKS am 02.05.2025 geschlossen / wegen Brückentag geschlossen
+Probleme Office OneDrive-Speicher / siehe Betriebsmeldung der GWDG
+mehr
+In der CKS nur noch Karten-Support, -Ausgabe und -Verlängerung / Der studIT-Helpdesk 'Chipkartenstelle' schließt ab dem 28.02.2025. Ab dem 01.03.2025 findet hier nur noch die Karten-Support, -Ausgabe und -Verlängerung statt! Um die Services für Euch zu verbessern, trennen wir Beratung und Karten-Services. Die Beratung von studIT ist am Zentralcampus weiterhin im LRC SUB (2. OG der Zentralbibliothek) für Euch da!
+Kontakt
+Deine Daten
+E-Mail
+Drucken
+WLAN & VPN
+Raumreservierung
+Standorte
+Software
+eCampus
+Probleme / Feedback
+start.txt
+· Zuletzt geändert: 06.06.2025 08:37 von
+lange43
+Seiten-Werkzeuge
+Zeige Quelltext
+Ältere Versionen
+Links hierher
+PDF exportieren
+ODT exportieren
+Nach oben
+de
+en
+
+
+# https://wiki.student.uni-goettingen.de/ecampus
+
+ecampus [Support studIT - IT-Service für Studierende]
+zum Inhalt springen
+Support studIT - IT-Service für Studierende
+Benutzer-Werkzeuge
+Anmelden
+Webseiten-Werkzeuge
+Suche
+Werkzeuge
+Zeige Quelltext
+Ältere Versionen
+PDF exportieren
+ODT exportieren
+Links hierher
+Letzte Änderungen
+Medien-Manager
+Übersicht
+Anmelden
+>
+Letzte Änderungen
+Medien-Manager
+Übersicht
+Seitenleiste
+ecampus
+support
+univz
+wiki
+blog
+datenschutz
+pflichtangaben_nach_dsgvo
+ecampus
+Inhaltsverzeichnis
+Über den eCampus
+Allgemeine Hinweise zur Hilfe
+Browserempfehlungen
+Hinweise für die Nutzung des Microsoft Internet Explorers
+Aufbau des Portals
+Headerverkleinerung
+Öffentliche Startseite
+Inhalte
+Login
+Persönliche Startseite - (Home)
+Default Seite
+Portlets
+Portlets hinzufügen
+Portlets löschen
+Portlets verschieben
+Portlets minimieren
+Portlets maximieren
+Portlets konfigurieren
+Das persönliche Newsfeed Portlet
+Das Feed Aggregator Portlet
+Das wetter.com Portlet
+Das Mensaplan Portlet
+Registerkarten
+Layout
+Registerkarten verschieben
+Registerkartenverwaltung
+Angebundene Systeme
+Stud.IP
+Hinweis für ersten Login
+Kalender
+Woher kommen die Termine?
+In Stud.IP Veranstaltungen eintragen
+In Stud.IP gesperrte Veranstaltungen für den Kalender vormerken
+Persönliche Termine erstellen
+Persönliche Termine löschen
+Veranstaltungen ausblenden / Gesperrte Termine vom Kalender entfernen
+Termindetails und Verlinkungen.
+Ansichten und Einstellungen
+Kalender als ical exportieren/synchronisieren
+Neue URL erzeugen
+URL per Mail versenden
+Reiner Export
+Über den eCampus
+Der eCampus (Elektronischer Campus) der Universität Göttingen dient als Portal für die Studierenden der Universität und stellt damit den zentralen Zugangspunkt zu den relevanten Onlinediensten dar. Dazu gehören:  UniVZ, Selbstbedienungsfunktionen, Stud.IP, go@med (nur Studierende der Medizin), FlexNow und das   E-Mail Postfach . Mit einem Login am Portal wird automatisch ein Login an den genannten Systemen durchgeführt, diese können somit sofort genutzt werden. (Ausnahme: Bei go@med ist momentan noch ein gesondertes Login erforderlich).
+Außerdem gibt es die Möglichkeit eine persönliche Startseite mit individuellen Inhalten zu füllen. Dies können zum Beispiel verschiedene Neuigkeiten der Universität, Nachrichtenmeldungen, das Wetter oder eine Verbindungsauskunft der Deutschen Bahn sein. Was davon gesehen und genutzt werden soll, ist den Studierenden dabei vollkommen selbst überlassen.
+Das Anmelden zum eCampus
+funktioniert mit dem
+studentischen Account
+(in der Regel vorname.nachname). Bitte auf Kleinschreibung achten! Das Einloggen mit der Matrikelnummer ist NICHT möglich! Den studentischen Account für Studierende der Uni Göttingen gibt es seit 2008. Falls nicht vorhanden kann dieser jederzeit an einem
+Beratungsstandort von studIT
+abgeholt werden.
+Allgemeine Hinweise zur Hilfe
+In dieser Hilfe werden lediglich die Funktionen des eCampus beschrieben. Wenn Sie Hilfe zu den angebunden Systemen benötigen, dann nutzen Sie bitte direkt die entsprechende Hilfefunktion. Hier die Links:
+Stud.IP
+FlexNow
+Browserempfehlungen
+Sämtliche Funktionen des eCampus können mit den gängigen Browsern in der jeweils aktuellen Version genutzt werden. Für eine optimale Nutzung empfehlen wir jedoch den
+Firefox
+,
+Google Chrome
+oder den
+Apple Safari
+.
+Auch mit dem
+Microsoft Internet Explorer
+können sie sämtliche Portalfunktionen nutzen, sie sollten jedoch die  Hinweise für die Nutzung des Microsoft Internet Explorers  beachten.
+Der Internet Explorer bis einschließlich Version 6 wird ausdrücklich nicht unterstützt. Außerdem ist bei den Browsern mobiler Endgeräte (Smartphones und Tablets) mit Einschränkungen bei der Nutzung der Persönlichen Startseite zu rechnen.
+Hinweise für die Nutzung des Microsoft Internet Explorers
+Möchten Sie gerne den Microsoft Internet Explorer nutzen, sollten sie beachten, dass auf den Seiten des eCampus, insbesondere auf der Persönlichen Startseite, häufig diese Meldung angezeigt wird:
+Bei älteren Internet Explorer Versionen kann diese Meldung anders aussehen.
+Mit den unsicheren Inhalten sind im Wesentlichen Grafiken gemeint, die z.B. in Portlets angezeigt werden. Es handelt sich dabei in jedem Fall um unkritische Inhalte, weshalb Sie gefahrlos mit
+[Nein]
+bestätigen können. Alle relevanten Inhalte werden selbstverständlich über eine verschlüsselte HTTPS Verbindung übertragen. Falls Sie diese Meldung stört, können Sie sie wie folgt ausschalten:
+1. Klicken Sie im Internet Explorer auf die Schaltfläche
+Extras
+und klicken Sie dann auf
+Internetoptionen
+.
+2. Klicken Sie auf den Register-Reiter
+Sicherheit
+und dann auf die Schaltfläche
+Stufe anpassen
+.
+3. Navigieren Sie im Dialogfeld
+Sicherheitseinstellungen
+zur Einstellung
+Gemischte Inhalte anzeigen
+im Abschnitt
+Verschiedenes
+, und klicken Sie auf
+Aktivieren
+.
+4. Klicken Sie im Dialogfeld Sicherheitseinstellungen auf
+OK
+bzw.
+Ja
+und anschließend noch einmal auf
+OK
+, um Internetoptionen zu verlassen.
+Aufbau des Portals
+Der eCampus besteht aus den drei Bereichen Header, Content-Bereich und Footer. Diese Bereiche werden auf sämtlichen Portalseiten angezeigt, wobei die Größe von Header und Footer fest und die Größe des Content-Bereichs variabel, abhängig vom Browserfenster, ist. Der Header enthält Logos, Navigationselemente, das Lesezeichenmenu, einen Infobereich, sowie die Login bzw. Logout Links.  Im Content-Bereich werden die angebundenen Systeme, wie z.B. Stud.IP, das E-Mail Postfach und auch die persönliche Startseite angezeigt. Der Footer enthält allgemeine, wichtige Links, z.B. zu dieser Hilfe. Im Header und Footer wird bestimmt, was im Content-Bereich angezeigt wird.
+Headerverkleinerung
+Um eine vergrößerte Arbeitsfläche zu erhalten, lässt sich der Header des eCampus wahlweise verkleinern. Dies kann insbesondere bei kleineren Anzeigegeräten, wie z.B. Netbooks, sinnvoll sein. Klicken Sie zum Umschalten des Headers das Minus-(bzw. Plus-) Symbol neben dem Logout Link an. Ihre persönliche Header Einstellung bleibt auch nach einem erneuten Login erhalten.
+Öffentliche Startseite
+Nachdem Sie in Ihrem Browser
+https://ecampus.uni-goettingen.de
+eingegeben haben, gelangen Sie auf die öffentliche Startseite des eCampus. Alle Inhalte, die hier angezeigt werden, sind für alle Studierenden und sonstige Besucher identisch.
+Inhalte
+Neben Links zum AStA und zum Studentenwerk werden Newsfeeds der Studienzentrale, der Pressestelle und des AStA, sowie ein Begrüßungstext angezeigt. Für die Inhalte der Feeds sind Pressestelle, Studienzentrale und AStA selbst verantwortlich; sollten Sie also Anmerkungen zu den Inhalten haben, wenden Sie sich bitte direkt an den jeweiligen Feed-Herausgeber.
+Login
+Im rechten oberen Bereich der öffentlichen Startseite, unterhalb des UMG Logos, finden Sie die Login Maske.
+Hier können Sie sich mit Ihrer studentischen Nutzerkennung anmelden. Sie gelangen dadurch zur Persönlichen Startseite und können von dort zu den angebundenen Systemen navigieren. Ein weiterer Login ist nicht notwendig.
+Persönliche Startseite - (Home)
+Die Erscheinung der persönlichen Startseite können Sie an Ihre individuellen Bedürfnisse anpassen. Sie können bespielsweise weitere Registerkarten einfügen oder zusätzliche Inhalte in Form von Portlets platzieren. Haben Sie Anpassungen an der persönlichen Startseite vorgenommen, können Sie diese von überall aus nutzen. Sie gelangen nach jedem Login wieder zurück zu Ihrer individuellen Oberfläche. Die persönliche Startseite kann nur von Ihnen aufgerufen werden, andere Studierende haben keinen Zugriff darauf. Bei Bedarf können Sie sie auch wieder auf die Ausgangskonfiguration zurücksetzen. Wie Sie diese Möglichkeiten nutzen können, wird in den nachfolgenden Abschnitten erklärt.
+Default Seite
+Wenn Sie den eCampus das erste Mal nutzen, dann enthält ihre Startseite vorausgewählte Inhalte (Portlets), diese Inhalte erhält jeder Studierende gleichermaßen.  Sie können diese Inhalte selbstverständlich beliebig anpassen und bei Bedarf auch wieder alles auf den Ausgangszustand zurücksetzen. Klicken Sie zum Zurücksetzen auf [Persönliche Einstellungen zurücksetzen]
+Nach dem Bestätigen wird Ihre persönliche Startseite vollständig zurückgesetzt, was bedeutet, dass alle Registerkarten und alle Portlets, die Sie eingefügt haben, gelöscht werden und auch die Konfiguration dieser Portlets verloren geht. Sie können jedoch alle Portlets erneut hinzufügen und neu konfigurieren. Wenn Sie sich sicher sind, dass Sie Ihre persönliche Startseite zurücksetzten möchten, dann bestätigen Sie mit [Ja].
+Portlets
+Portlets sind die Komponenten der Persönlichen Startseite des eCampus. Ihre Erscheinung ist mit den Fenstern des Betriebssystems vergleichbar und sie verhalten sich teilweise ähnlich, sie können beispielsweise minimiert oder geschlossen werden. Welche Portlets Sie sehen und nutzen wollen, könne Sie selbst entscheiden und dazu Portlets aus einer Vorauswahl zu ihrer Persönlichen Startseite hinzufügen. Jedes Portlet des eCampus ist mit seinen Inhalten und seiner Funktionsweise unabhängig von den anderen Portlets.
+Die Inhalte der Portlets stammen entweder aus den verschiedenen universitären Bereichen (z.B. Feeds mit Jobbörse, Veranstaltungen und Presseinformationen) oder aus öffentlichen Quellen (z.B. das Wetter von Wetter.com). Die Portlets aus öffentlichen Quellen stammen aus dem Verzeichnis von iGoogle. Hier wird eine Vielzahl an Portlets angeboten, die zur Einbindung in die iGoogle Startseite gedacht sind. Eine sehr kleine Auswahl davon steht Ihnen auch im eCampus zur Verfügung. Wenn Sie sich ein zusätzliches Portlet wünschen, das im Google Verzeichnis vorhanden ist, dann melden Sie uns  dieses an:  info@studit.uni-goettingen.de  Wir werden es inhaltlich und sicherheitstechnisch prüfen und gegebenenfalls zum eCampus hinzufügen.
+Die Portlets des eCampus können auf mehrere Registerkarten verteilt werden.
+Hier einige Portletbeispiele des eCampus:
+Weitere allgemeine Informationen zu Portlets finden Sie auch bei Wikipedia.
+Portlets hinzufügen
+1. Um ein Portlet zu ihrer Persönlichen Startseite hinzuzufügen klicken sie auf den Link
+[Portlet hinzufügen]
+2. Nun wird der „Portlet hinzufügen“ Dialog angezeigt.  Wählen Sie ein Portlet aus, das Sie hinzufügen möchten.  Die Portlets sind in die folgenden Kategorien aufgeteilt:
+Universität Göttingen → Portlets der Georg-August-Universität Göttingen.
+Für den Inhalt der Portlets ist die Universität Göttingen verantwortlich.
+Lokales → Informationen aus der Region Göttingen
+Für den Inhalt der Portlets bzw. Feeds  ist der jeweilige Anbieter verantwortlich.
+Allgemeine Portlets → allgemeine Portlets, z.B. Wetter oder Kino Neuigkeiten.
+Für den Inhalt der Portlets bzw. Feeds  ist der jeweilige Anbieter verantwortlich.
+3. Klicken Sie auf den Link
+[Portlet hinzufügen]
+des gewählten Portlets.
+Oberhalb des geklickten Links erscheint nun die Meldung „Erfolgreich hinzugefügt“. Sie können ein Portlet auch mehrfach hinzufügen, dies kann z.B. sinnvoll sein, wenn sie gleichzeitig das Wetter in Göttingen und in ihrem Heimatort sehen wollen und das Portlet nach dem Hinzufügen entsprechend konfigurieren.
+4. Klicken sie auf den Link
+[zurück zum Portal]
+um zu Ihrer Persönlichen Startseite zurück zu gelangen.
+Dort ist nun das Portlet in der linken, oberen Ecke platziert worden.
+Portlets löschen
+Um ein Portlet von ihrer Persönlichen Startseite zu löschen, klicken Sie auf das Kreuz in der rechten Ecke der Portlettitelleiste. Das Portlet wird daraufhin sofort und ohne Rückfrage entfernt, allerdings können Sie es jederzeit wieder hinzufügen. Beachten Sie allerdings, dass mit Entfernen des Portlets eventuell vorgenommene Portletkonfigurationen verloren gehen.
+Portlets verschieben
+Sie können ein Portlet an eine beliebige Position der  Registerkarte verschieben, indem Sie die
+Titelleiste anklicken
+und das Portlet per
+Drag & Drop
+an die gewünschte Zielposition verschieben. Die Zielposition wird durch einen gestrichelten Rahmen gekennzeichnet.  Möchten Sie ein Portlet auf eine anderen Registerkarte verschieben, müssen Sie es löschen und auf der gewünschten Registerkarte erneut hinzufügen.
+Portlets minimieren
+Bei einigen Portlets haben Sie die Möglichkeit das Portlet bis auf die Titelleiste zu minimieren, indem Sie das Zuklappen-Symbol in der linken Ecke der Titelleiste anklicken.
+Um  wieder die normale Größe des Portlets herzustellen,  klicken sie auf einem minimierten Portlet auf das Aufklappen-Symbol
+Portlets maximieren
+Bei einigen Portlets haben Sie die Möglichkeit das Portlet bis auf die Größe der Registerkarte zu vergrößern, um eine bessere Übersicht über den Inhalte zu erhalten. Klicken Sie zum Maximieren auf das
+Maximieren-Symbol
+in der Titelleiste eines Portlets.
+Um  wieder die normale Größe des Portlets herzustellen,  klicken sie auf den Link
+[Normalansicht]
+oder auf  das entsprechende Symbol in der Titelleiste des Portlets.
+Portlets konfigurieren
+Einige Portlets, die Sie auf Ihrer Persönlichen Startseite platziert haben, können Sie individuell konfigurieren um so bspw. die Darstellung des Portelts zu beeinflussen. Die Konfigurationsmöglichkeiten sind dabei abhängig vom Typ des Portlets und beziehen sich nur auf das Portlet, in dem Sie die Einstellungen vornehmen. Wenn Sie bspw. die maximale Anzahl der Nachrichten, die Ihnen angezeigt werden sollen, verändern, dann hat dies keine Auswirkungen auf die angezeigte Nachrichtenanzahl  in anderen Portlets.
+Nachfolgend sehen Sie am Beispiel des Newsfeed Portlets “Stellenbörse für stud. Hilfkräft“ wie Sie vorgehen müssen, wenn Sie die Konfiguration eines Portlets ändern möchten:
+1.	Klicken Sie auf das Schraubenschlüssel Symbol in der Titelleiste des Portlets.
+2.	Nun wird oberhalb des eigentlichen Portletinhalts ein Konfigurationsdialog angezeigt. Nehmen Sie hier die gewünschten Veränderungen vor:
+Feed-Logo anzeigen:
+Bei einigen Feeds wird ein Logo des Anbieters in der rechten oberen Ecke des Portlets angezeigt. Mit dieser Option können Sie dieses Logo ein- bzw. ausblenden.
+Anzahl der Nachrichten:
+Hier können Sie die maximale Anzahl der Nachrichten, die im aktuellen Newsfeed Portlet angezeigt werden sollen, angeben.
+Details anzeigen:
+Einige Newsfeeds liefern, abgesehen von den Titeln der Feedeinträge, auch Einführungstexte. Diese können eingeblendet werden, indem Sie diese Option anwählen.
+3.	Schließen Sie den Vorgang ab. Klicken Sie dazu auf den Link …
+…
+[Speichern]
+um Ihre Änderungen auf das aktuelle Portlet anzuwenden.
+…
+[Standarteinstellungen]
+um die Vorgabewerte des aktuellen Portlets wiederherzustellen. Es erscheint anschließend wieder in der Form, wie es auch beim Hinzufügen zur Persönlichen Startseite angezeigt wird.
+…
+[Abbrechen]
+um den Vorgang abzubrechen und die bisherige Konfiguration des Portlets beizubehalten.
+Weiter Hinweise zur Konfiguration von Portlets:
+Wenn Sie ein Portlet mehrfach zu Ihrer Persönlichen Startseite hinzufügen, dann können Sie jedes Auftreten dieses Portlets unterschiedlich und unabhängig konfigurieren. Dies ist z.B. beim  persönlichen Newsfeed Portlet(nachfolgender Abschnitt) sinnvoll, das Sie dazu verwenden können, News aus unterschiedlichen Quellen auf Ihrer Persönlichen Startseite anzuzeigen.
+Wenn Sie ein Portlet von Ihrer Persönlichen Seite löschen, dann geht Ihre Konfiguration für dieses Portlet verloren.
+Das Schraubenschlüssel Symbol wird nur bei Portlets angezeigt, bei denen es auch Konfigurationsmöglichkeiten gibt.
+Das persönliche Newsfeed Portlet
+Sie haben die Möglichkeit Feeds aus unterschiedlichen Quellen zu ihrer Persönlichen Startseite hinzufügen. Sie können dabei individuell entscheiden, welche News für Sie relevant sind. Alles was Sie brauchen ist die
+URL
+eines beliebigen RSS- oder Atomfeeds. URLs zu Feeds finden Sie beispielsweise in verschiedenen Verzeichnissen (
+http://www.rss-verzeichnis.de
+,
+http://www.rss-scout.de
+, etc.) oder den Internetseiten der meisten Nachrichtenportale. Häufig sind Feeds an dem Icon
+erkennbar.
+Wenn Sie die
+URL
+zu einem interessanten Feed gefunden haben, dann gehen Sie folgendermaßen vor, um den Feed zu Ihrer Persönlichen Startseite hinzuzufügen:
+1.	Wählen Sie das Portlet
+Feed
+aus der Kategorie “Allgemeine Portlets“  des “Portlet hinzufügen“-Dialogs und fügen Sie es zu Ihrer Persönlichen Startseite hinzu.
+2.	Das Portlet erscheint zunächst ohne Inhalt. Klicken Sie auf das Schraubenschlüssel Symbol um den Konfigurationsdialog des Feed Portlets anzuzeigen.
+3.	Fügen Sie im Feld
+Quelle
+die
+URL
+ihres Feeds ein und nehmen Sie bei Bedarf Veränderungen an den übrigen Einstellungen vor. (Siehe vorheriger Abschnitt)
+4.	Nach Klicken des Links
+[Speichern]
+wird der gewählte Feed auf ihrer Persönlichen Startseite angezeigt.
+Das Feed Aggregator Portlet
+Das “Feed Aggregator“ Portlet zeigt, wie das einfache “Feed“ Portlet, Feeds aus beliebigen Quellen an. Allerdings können mehrere Feeds eingefügt werden, deren Inhalte dann zu einem gemeinsamen Feed aggregiert werden.
+Sie finden das Portlet in der Kategorie “Allgemeine Portlets“ unter dem Namen “Feed Aggregator“.
+Beachten Sie bitte die folgenden Punkte beim Konfigurieren und Verwenden des Portlets:
+Das Portlet erscheint zunächst ohne Inhalt. Klicken Sie auf [Einstellungen bearbeiten] oder das Schraubenschlüssel Symbol um den Konfigurationsdialog des Feed Portlets anzuzeigen.
+Eine bestehende Konfiguration können Sie jederzeit über das Schraubenschlüssel Symbol wieder verändern.
+Fügen Sie im Feld
+Neuer Feed
+des Konfigurationsdialogs die
+URL
+eines Feeds ein, der zu dem Portlet hinzugefügt werden soll, und klicken Sie anschließend auf das grüne Plus Symbol(A). In der Auflistung der bereits hinzugefügten Feeds wird dieser nun ergänzt(B). Außerdem wird eine neue Kategorie mit dem Titel des Feeds angezeigt(C).
+In einigen Feeds werden die einzelnen Einträge vom Anbieter in Kategorien einsortiert. Diese werden dann, statt des Feedtitels, im Konfigurationsdialog und in der Oberfläche des Portlets als Karteikarten aufgeführt. Beispiele für Feeds die Kategorien mitliefern sind:
+http://rss.focus.de/fol/XML/rss_folnews.xml
+,
+http://www.spiegel.de/schlagzeilen/index.rss
+Wenn Kategorien aktiviert sind (Haken bei
+Kategorien anzeigen
+ist gesetzt), werden diese in Form von Karteikarten im Portlet angezeigt. Mit Hilfe der Katogorien können Sie ihren Newsfeed inhaltlich filtern.
+Wenn die Bezeichnungen der Kategorien in mehreren Feeds übereinstimmen, bspw. wenn sowohl im Focus als auch im Spiegel Feed eine Kategorie “Sport“ vorhanden ist, dann werden alle zugehörigen Feedeinträge, unabhängig zu welchem der Feeds sie gehören, unter der Karteikarte “Sport“  angezeigt.
+Wenn die Inhalte bestimmter Kategorien für Sie uninteressant sind, dann können Sie diese im Konfigurationsdialog deaktivieren.
+Die Karteikarte
+Alle
+enthält sämtliche Feedeinträge aus allen konfigurierten Feeds und unabhängig davon welcher Kategorie sie zugeordnet sind. Auch die Inhalte deaktivierter Kategorien werden angezeigt.
+Das wetter.com Portlet
+Dieses Portlet dient dazu, die Wettervorhersage für die nächsten Tage und für einen bestimmten Ort auf Ihrer Persönlichen Startseite anzuzeigen.  Der Wetterinformationsdienstes wetter.com bietet dieses Portlet an und  ist auch für sämtliche Inhalte verantwortlich. (Beschweren Sie sich über schlechtes Weter also nicht bei uns!)
+Bedienung:
+Da es sich um ein Portlet aus einer öffentlichen Quelle handelt, lässt es sich nicht, wie in den vorherigen Beispielen beschrieben, über das Schraubenschlüssel Symbol konfigurieren.
+Zur Auswahl eines Ortes können sie in das Suchfeld(A) eine Stadt oder ein Postleitzahl eingeben und anschließen den gewünschten Eintrag aus der Suchergebnisliste(B) anklicken. Falls Sie nachträglich einen anderen Ort auswählen möchten, können Sie dies über den Link [Einstellungen](C) tun.
+Sie können dieses Portlet gerne auch mehrfach zu Ihrer Persönlichen Startseite hinzufügen, um die Wettervorhersage von zwei Orten gleichzeitig zu verfolgen. (Beispielsweise von Göttingen und Ihrem Heimatort)
+Das Mensaplan Portlet
+Dieses Portlet wird von der Universität Göttingen angeboten. Die Inhalte des Portlets werden vom Studentenwerk der Universität bestimmt. Somit ist auch das Studentenwerk für die Korrektheit der aufgeführten Speisen und Preise verantwortlich. Informationen zu Zusatzstoffen und der verwendeten Symbolik finden Sie über den Link “Info“(A).
+Bedienung:
+Sämtliche Einstellungen, die Sie an diesem Portlet vornehmen, werden gespeichert und sind somit auch nach einem erneuten Login weiterhin vorhanden.
+Das Portlet bietet Ihnen folgende Einstellmöglichkeiten:
+- Wahl der Mensa
+Wählen Sie in der Dropdownbox(B) eine Mensa aus, deren Gerichte angezeigt werden sollen.
+- Wahl des Tages
+Über die Links(C) können Sie sich auch die Speisen der beiden folgenden Tage anzeigen lassen und bei Bedarf  über den Link „Weitere“ eine Übersicht der Speisen der gesamten Woche auf den Internetseiten des Studentenwerks erhalten. Beachten Sie, dass Speisen, bei denen es sich um reine Mittagsangebote handelt, nach 14:15 Uhr des gewählten Tages nicht mehr angezeigt werden.
+- Wahl des Preises
+Über den Link Einstellungen(D) gelangen Sie zu weiteren Einstellmöglichkeiten. Hier haben Sie die Möglichkeit, sich anstatt der Studentenpreise, auch die Preise für Mitarbeiter oder Gäste anzeigen zu lassen.(E)
+- Filtern von Speisen
+Außerdem können Sie über die Einstellungen(D) die angezeigten Speisen filtern(F). So können Sie z.B. Schweinefleisch und/oder Fischgerichte auf Ihrem Mensaplan ausblenden oder sich ausschließlich vegetarische bzw. vegane Speisen anzeigen lassen. Über den “Speichern“ Link(G) speichern Sie Ihre Einstellungen und gelangen zurück zu Ihrem Mensaplan.
+Auch bei diesem Portlet kann es sinnvoll sein, es mehrfach zur  Persönlichen Startseite hinzufügen. So bekommen Sie die Speisen mehrerer Mensen gleichzeitig angezeigt.
+Registerkarten
+Die Portlets der persönlichen Startseite (Home) können auf mehrere Registerkarten verteilt werden. Sollten Sie also Platzprobleme bekommen, weil Sie sehr viele Portlets eingebunden haben, können Sie einen Teil der Portlets auf eine zusätzliche Registerkarte verschieben. Außerdem ist es Ihnen dadurch möglich, die Portlets Ihrer persönliche Startseite beliebig zu kategorisieren.
+Wie das geht erfahren Sie in den nachfolgenden Abschnitten.
+Layout
+Die Portlets werden standartmäßig in drei Spalten auf der persönlichen Startseite (Home) angeordnet. Sie können das Layout jedoch alternativ auf eine Spalte oder zwei Spalten umstellen und es somit an Ihre Bedürfnisse anpassen.  Layouteinstellungen werde pro Registerkarte gespeichert, wenn Sie also das Layout der Registerkarte “Startseite“ anpassen, dann hat dies keine Auswirkung auf die übrigen Registerkarten.
+Nutzen Sie zum Umstellen des Layouts bitte das Drop Down Menu unterhalb der Registerkartenbezeichnungen.
+Registerkarten verschieben
+Sie können die Registerkartenbezeichnungen per Drag & Drop an eine andere Position verschieben und somit die Reihenfolge der Registerkarten beeinflussen. Beachten Sie, dass nach dem Login zunächst immer der Inhalt er ersten (linken) Registerkarte angezeigt wird.
+Registerkartenverwaltung
+Mit Hilfe der Registerkartenverwaltung können Sie Registerkarten hinzufügen, umbenennen oder löschen. Sie gelangen über den Link “Registerkartenverwaltung“  oder das Plus Zeichen neben den Registerkartenbezeichnungen zur Registerkartenverwaltung.
+Hinzufügen
+Innerhalb der Registerkartenverwaltung (s.o.) können Sie im Abschnitt “Neue Registerkarte anlegen“ eine weitere Registerkarte erstellen. Geben Sie dazu eine Bezeichnung in das Formularfeld ein und schließen Sie den Vorgang  mit einem Klick auf den Button [Anlegen] ab. Sie gelangen anschließend direkt auf die neue Registerkarte und können diese mit Portlets füllen.
+Umbenennen
+Innerhalb der Registerkartenverwaltung (s.o.) können Sie im Abschnitt “Registerkarten verwalten“  alle bestehenden Registerkarten umbenennen. Verändern Sie dazu den Bezeichnungstext einer oder mehrerer Registerkarten und schließen Sie den Vorgang anschließend mit einem Klick auf den Button [Speichern] ab. Beachten Sie, dass die Länge der Bezeichnung begrenzt ist.
+Löschen
+Innerhalb der Registerkartenverwaltung (s.o.) können Sie im Abschnitt “Registerkarten verwalten“  Registerkarten löschen. Klicken Sie dazu auf das rote X-Symbol hinter der Registerkartenbezeichnung und bestätigen Sie anschließend den Vorgang. Beachten Sie, dass alle Portlets und Portleteinstellungen dieser Registerkarte verloren gehen.
+Angebundene Systeme
+Stud.IP
+Hinweis für ersten Login
+Sollten Sie bisher noch keine Stud.IP Kennung besitzen, dann wird diese automatisch erstellt. Klicken Sie zum Bestätigen der Stud.IP Nutzungsbedingungen auf den Link
+[Ich erkenne die Nutzungsbedingungen an]
+.
+Kalender
+Der eCampus Kalender gibt Ihnen einen Überblick über Ihre Veranstaltungen und Termine. Von jedem Veranstaltungstermin können Sie in die entsprechende Veranstaltung im Vorlesungsverzeichnis (UniVZ) und ins Stud.IP springen. Der Kalender kann über den Menüpunkt “Kalender“ in der Navigationsleiste des eCampus aufgerufen werden.
+Woher kommen die Termine?
+Im Kalender werden die Termine aller Veranstaltungen angezeigt, für die Sie sich in Stud.IP eingetragen haben, bzw. die Sie sich vorgemerkt haben. Außerdem können Sie in den Kalender Ihre persönlichen Termine eintragen.
+In Stud.IP Veranstaltungen eintragen
+Wenn Sie sich in eine Stud.IP Veranstaltung eintragen möchten, dann folgen Sie bitte  den Hinweisen in der Stud.IP Hilfe:
+http://docs.studip.de/help/2.1/de/ugoe/Basis/VeranstaltungenAbonnieren
+und
+http://docs.studip.de/help/2.1/de/ugoe/Basis.FAQVaAnmeldung
+. Die Termine der Veranstaltungen, in die Sie sich eingetragen haben, werden anschließend im eCampus Kalender angezeigt.
+In Stud.IP gesperrte Veranstaltungen für den Kalender vormerken
+Wenn eine Veranstaltung in Stud.IP noch gesperrt ist, dann können Sie die Termine der Veranstaltung dennoch in Ihrem eCampus Kalender vormerken/anzeigen lassen. Warum Veranstaltungen Stud.IP gesperrt sein können, entnehmen Sie bitte diesen Hinweisen aus der Stud.IP Hilfe (
+http://docs.studip.de/help/2.1/de/ugoe/Basis.FAQVaAnmeldung
+). Zum Vormerken einer gesperrten  Veranstaltung klicken Sie einfach auf den Link [Nur im Stundenplan und im Kalender vormerken].
+Persönliche Termine erstellen
+Zusätzlich zu den Terminen, die automatisch anhand Ihrer  Stud.IP  Veranstaltungen in den Kalender eingetragen werden, können Sie auch eigene Termine erstellen. Klicken Sie dazu entweder auf den Menüpunkt [Termin anlegen] oder auf das + Zeichen in einer Kalender Zelle.
+Daraufhin öffnet sich ein Dialog, in dem Sie die Details Ihres Termins angeben können. Sie können hier unter anderem  die Start- und Endezeit des Termins bestimmen, den Termin einer Kategorie zuordnen, einen Ort bestimmen und angeben, ob sich um einen Serientermin handelt. Nach dem Speichern wird der Termin im Kalender angezeigt. Die Farbe des Termins richtet sich dabei nach der ausgewählten Kategorie.
+Beachten Sie, dass alle Termine des eCampus Kalenders auch im Planer von Stud.IP angezeigt werden und umgekehrt.
+Persönliche Termine löschen
+Sie können persönliche Termine löschen, indem Sie den Termin im Kalender anklicken und im sich öffnenden Dialog den Button [löschen] klicken.
+Veranstaltungen ausblenden / Gesperrte Termine vom Kalender entfernen
+Wenn Sie Veranstaltungen, in die Sie sich eingetragen haben und in denen Sie eingetragen bleiben wollen, nicht mehr auf Ihrem eCampus Kalender sehen möchten, dann entfernen Sie bitte unter [Veranstaltungstermine] den Haken der entsprechenden Veranstaltungen. Auf diese Weise können Sie auch die gesperrten Veranstaltungen, die Sie sich vorgemerkt haben, wieder von Ihrem Kalender entfernen. Beachten Sie, dass Sie das Semester wechseln müssen, wenn sie Veranstaltungen aus den Vorsemestern ausblenden möchten.
+Termindetails und Verlinkungen.
+Wenn Sie einen Termin im Kalender anklicken, wird Ihnen ein Fenster mit Details zum Termin angezeigt. In diesem Detailfenster sehen Sie grundlegende Information zum Termin(Zeiten, Beschreibungen, den Ort etc.) auf einen Blick und können außerdem über die Links [Zur Veranstaltung in Stud.IP] und [Zur Veranstaltung in UniVZ] die Veranstaltung im entsprechenden System direkt aufrufen.
+Ebenso können Sie auch über die entsprechenden Icons, ohne Aufruf des Detailfensters, zu der Veranstaltung in Stud.IP oder UniVZ gelangen.
+Bei persönlichen Terminen können im Detailfenster des Termins die Einstellungen verändert oder der Termin gelöscht werden.
+Ansichten und Einstellungen
+Im Kalender  stehen Ihnen eine Tages-, Wochen-, Monats- und Jahresansicht zur Verfügung, wobei beim Aufruf des Kalenders immer die Wochenansicht der aktuellen Woche angezeigt wird. Sie können dieses und andere Einstellungen unter dem Menüpunkt [Einstellungen] ändern.
+Außerdem können Sie aus der aktuellen Ansicht direkt in eine bestimmte Woche (einen bestimmten Monat etc.) springen, indem Sie unterhalb des Kalenders in den Eingabefelder [Gehe zu] ein Datum eingeben und den Button [absenden] klicken.
+Beachten Sie, dass die Icons mit den Verlinkungen zur Veranstaltung in Stud.IP und UniVZ aus Platzgründen nur in der Tages- und Wochenansicht  angezeigt wird. In der Jahresansicht ist die Darstellung soweit vereinfacht, dass nur noch die Tage markiert werden, an denen Termine existieren. Um die Termine selbst zu sehen, wechseln Sie bitte in eine andere Ansicht.
+Kalender als ical exportieren/synchronisieren
+Wenn Sie eine Terminkalenderanwendung verwenden, in die Sie externe Kalender per ical
+URL
+einbinden können (z.B. Outlook, Google Kalender) oder Ihre Veranstaltungstermine auch auf Ihrem Smartphone(z.B. Iphone) angezeigt bekommen möchten, dann können Sie die Export/Sync Funktion des eCampus Kalenders verwenden.
+Tragen Sie dazu die
+URL
+(A)
+, die auf dem Export/Sync Dialog angegeben ist, als externen Kalender in Ihr Terminkalenderprogramm oder Ihr Smartphone ein.
+(Entnehmen Sie bei Bedarf die genauen Anweisungen zum Einbinden eines externen Kalenders dem Handbuch Ihres Programms oder Smartphones)
+Veränderungen an den Terminen des eCampus Kalenders können Sie aus einem externen Programm jedoch nicht vornehmen, es ist lediglich ein lesender Zugriff auf Ihre Termine.
+Neue URL erzeugen
+Bei der
+URL
+(A)
+handelt es sich um eine zufallsgenerierte Adresse, über die ein Zugriff auf sämtliche Termine möglich ist.  Sollte Sie diese
+URL
+einmal ändern wollen, dann können Sie den Link [Neue Adresse generieren]
+(B)
+verwenden. So wird eine neue, zufällige
+URL
+für den externen Zugriff auf den Kalender erstellt und die Alte ungültig. Beachten Sie bitte, dass Sie in allen Programmen, in denen Sie die alte
+URL
+bereits verwenden, nun die neue
+URL
+eintragen müssen, damit die Termine weiterhin angezeigt werden. Das Neugenerieren der
+URL
+kann sinnvoll sein, wenn Ihre Kalender
+URL
+versehentlich in die Hände unbefugter Personen geraten ist (z.B. durch Verlust des Smartphones).
+URL per Mail versenden
+Um die Eingabe der
+URL
+auf kleinen Smartphone Tastaturen komfortabler zu gestalten, bietet der eCampus Kalender die Möglichkeit die
+URL
+an eine Mailadresse zu verschicken
+(C)
+. Sie können die E-Mail dann mit Ihrem Smartphone abrufen, die
+URL
+kopieren und an der entsprechenden Stelle einfügen, ohne die kryptischen Zeichen abtippen zu müssen.
+Reiner Export
+Bei den zuvor beschriebenen Verfahren wird eine Verknüpfung Ihres externen Programms oder Smartphones mit dem eCampus Kalender hergestellt. Was bedeutet, dass alle Terminänderungen automatisch über eine Internetverbindung an das externe Programm weitergegeben werden. Sollten Sie dies nicht wünschen, können Sie die Termine auch als *.ics  Datei exportieren und verwenden. Klicken Sie dazu einfach im Browser mit der rechten Maustaste auf die
+URL
+(A)
+und wählen Sie [Ziel speichern unter…], um eine *.ics Datei auf Ihrer Festplatte abzulegen.
+ecampus.txt
+· Zuletzt geändert: 18.01.2023 11:45 von
+127.0.0.1
+Seiten-Werkzeuge
+Zeige Quelltext
+Ältere Versionen
+Links hierher
+PDF exportieren
+ODT exportieren
+Nach oben
+de
+en
+
+
+# https://wiki.student.uni-goettingen.de/ecampus/faq
+
+ecampus:faq [Support studIT - IT-Service für Studierende]
+zum Inhalt springen
+Support studIT - IT-Service für Studierende
+Benutzer-Werkzeuge
+Anmelden
+Webseiten-Werkzeuge
+Suche
+Werkzeuge
+Zeige Quelltext
+Ältere Versionen
+PDF exportieren
+ODT exportieren
+Links hierher
+Letzte Änderungen
+Medien-Manager
+Übersicht
+Anmelden
+>
+Letzte Änderungen
+Medien-Manager
+Übersicht
+Seitenleiste
+ecampus
+support
+univz
+wiki
+blog
+datenschutz
+pflichtangaben_nach_dsgvo
+ecampus:faq
+Inhaltsverzeichnis
+FAQ
+1. Ich habe eine Frage, auf die ich in den FAQs keine Antwort finde. An wen kann ich mich wenden?
+2. Ich kann mich nicht anmelden. Was kann ich tun?
+3. Ich bekomme einen Shibboleth Fehler. Was kann ich tun?
+FAQ
+1. Ich habe eine Frage, auf die ich in den FAQs keine Antwort finde. An wen kann ich mich wenden?
+Bitte wenden Sie sich in diesem Fall an info@studit.uni-goettingen.de.
+2. Ich kann mich nicht anmelden. Was kann ich tun?
+Nutzen Sie zur Anmeldung ausschließlich ihre studentische Nutzerkennung und beachten Sie, dass sowohl beim Kennwort, als auch beim Benutzernamen die Groß- und Kleinschreibung wichtig ist. Der Benutzername muss komplett in Kleinbuchstaben geschrieben werden.
+3. Ich bekomme einen Shibboleth Fehler. Was kann ich tun?
+Wenn Sie in Stud.IP auf den Zurück-Button des Browser klicken, kann es passieren, dass Ihnen einer der folgenden Fehler angezeigt wird (siehe Bilder). Klicken Sie in diesem Fall auf den Vor-Button des Browsers oder klicken sie in der Navigationsleiste erneut auf Stud.IP. Sie können dann normal weiterarbeiten. Wir arbeiten an einer Lösung des Problems.
+Fehler im Firefox:
+Fehler im Safari:
+ecampus/faq.txt
+· Zuletzt geändert: 18.01.2023 11:45 von
+127.0.0.1
+Seiten-Werkzeuge
+Zeige Quelltext
+Ältere Versionen
+Links hierher
+PDF exportieren
+ODT exportieren
+Nach oben
+de
+en
