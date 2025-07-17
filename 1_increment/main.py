@@ -6,6 +6,33 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.vectorstores import FAISS
 from helper.academicCloudEmbeddings import AcademicCloudEmbeddings
+import json, uuid, datetime, pathlib
+
+# Lege einen Ordner für Logs an (falls nicht vorhanden)
+LOG_PATH = pathlib.Path("logs")
+LOG_PATH.mkdir(exist_ok=True)
+
+def log_conversation(user_msg: str, assistant_msg: str) -> None:
+    """Schreibt eine Chat-Zeile als JSONL.
+
+    Eine Sitzung bekommt beim ersten Aufruf eine UUID,
+    danach hängt jede Zeile dieselbe session_id an.
+    """
+    # Session‑ID einmalig erzeugen & merken
+    if "session_id" not in st.session_state:
+        st.session_state.session_id = uuid.uuid4().hex
+
+    entry = {
+        "session_id": st.session_state.session_id,
+        "timestamp": datetime.datetime.utcnow().isoformat(timespec="seconds"),
+        "user": user_msg,
+        "assistant": assistant_msg,
+    }
+
+    # Append im JSON‑Lines‑Format
+    with open(LOG_PATH / "conversations.jsonl", "a", encoding="utf‑8") as fh:
+        fh.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
 
 # -----------------------------------------------------------------------------
 # Konfiguration
@@ -100,6 +127,8 @@ if user_prompt:
 
     st.session_state.messages.append({"role": "user", "content": user_prompt})
     st.session_state.messages.append({"role": "assistant", "content": answer})
+    # Hier wird geloggt
+    log_conversation(user_prompt, answer)
 
 # -----------------------------------------------------------------------------
 # Support-Anfrage-Funktionalität
