@@ -1,4 +1,9 @@
 # List of URLs was gathered on 17.07.2025 15:50
+urls_tables = ["https://wiki.student.uni-goettingen.de/support/account/account_exmatrikulierte",
+               "https://wiki.student.uni-goettingen.de/support/drucken/drucker",
+               "https://wiki.student.uni-goettingen.de/support/drucken/druckpreise",
+               "https://wiki.student.uni-goettingen.de/support/drucken/gwdg_account",
+               "https://wiki.student.uni-goettingen.de/support/drucken/posterdruck"]
 
 urls = ["https://wiki.student.uni-goettingen.de/",
 "https://wiki.student.uni-goettingen.de/ecampus",

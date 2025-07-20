@@ -1,0 +1,12 @@
+[client]
+showErrorDetails = "none"
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#153268"
+backgroundColor = "#FFFFFF"
+textColor = "#000000"
+linkColor = "#50a5d2"
+baseRadius = "small"
+borderColor = "#153268"
