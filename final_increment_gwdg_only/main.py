@@ -65,7 +65,7 @@ embedder = AcademicCloudEmbeddings(
 
 # --- Child‑VectorStore (FAISS) ----------------------------------------------
 child_index = FAISS.load_local(
-    "faiss_children",
+    "faiss_children/",
     embedder,
     allow_dangerous_deserialization=True,
 )
